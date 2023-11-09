@@ -9,3 +9,6 @@
 -> git diff\
 -> git diff --staged\
 -> git commit -m "add new lines"\
+-> git log\
+-> git restore .\README.md
+-> git restore --staged \README.md
