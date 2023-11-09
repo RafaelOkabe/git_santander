@@ -13,4 +13,5 @@
 -> git restore .\README.md\
 -> git restore --staged \README.md\
 -> git remote\
--> git push origin master
+-> git push origin master\
+-> git pull
