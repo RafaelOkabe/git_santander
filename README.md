@@ -1,4 +1,11 @@
-# Cuso Digital: Git
+## Cuso Digital: Git
 
-## Gravando mudanças no repositório
-## Gravando mudanças no repositório 3
+# Comandos
+-> git init
+-> git config --global user.name "name"
+-> git config --global user.email email
+-> git status
+-> git add .\README.md
+-> git diff
+-> git diff --staged
+-> git commit -m "add new lines"
