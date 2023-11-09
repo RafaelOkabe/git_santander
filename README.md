@@ -17,4 +17,5 @@
 -> git pull\
 -> git fetch\
 -> git log --oneline -- decorate\
--> git log checkout testing
+-> git log checkout testing\
+-> git merge testing
