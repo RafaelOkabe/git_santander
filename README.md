@@ -15,4 +15,6 @@
 -> git remote\
 -> git push origin master\
 -> git pull\
--> git fetch
+-> git fetch\
+-> git log --oneline -- decorate\
+-> git log checkout testing
