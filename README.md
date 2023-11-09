@@ -1,6 +1,6 @@
-## Cuso Digital: Git
+# Cuso Digital: Git
 
-# Comandos
+## Comandos
 -> git init\
 -> git config --global user.name "name"\
 -> git config --global user.email email\
